@@ -4,3 +4,4 @@ ApiSettings:
   Secret: "SAMPLE-SECRET-KEY-SAMPLE-SECRET-KEY-SAMPLE-SECRET-KEY-SAMPLE-SECRET-KEY-CENTRALIZED_CONFIG"
   Issuer: "microservices-basics-api"
   Audience: "microservices-client"
+DummyValue: "Account-123"

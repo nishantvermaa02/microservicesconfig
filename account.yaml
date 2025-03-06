@@ -1,3 +1,6 @@
+ConnectionStrings:
+  DefaultConnection: "Server=IN-4GVCX64;Database=Sample;Trusted_Connection=True;TrustServerCertificate=True"
+
 ApiSettings:
   Secret: "SAMPLE-SECRET-KEY-SAMPLE-SECRET-KEY-SAMPLE-SECRET-KEY-SAMPLE-SECRET-KEY"
   Issuer: "microservices-basics-api"

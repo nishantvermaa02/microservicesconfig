@@ -1,6 +1,7 @@
 ConnectionStrings:
   DefaultConnection: "Server=IN-4GVCX64;Database=Sample;Trusted_Connection=True;TrustServerCertificate=True"
 ApiSettings:
-  Secret: "SAMPLE-SECRET-KEY-SAMPLE-SECRET-KEY-SAMPLE-SECRET-KEY-SAMPLE-SECRET-KEY-CENTRALIZED_CONFIG"
-  Issuer: "microservices-basics-api"
-  Audience: "microservices-client"
+  JwtOptions:
+    Secret: "SAMPLE-SECRET-KEY-SAMPLE-SECRET-KEY-SAMPLE-SECRET-KEY-SAMPLE-SECRET-KEY-CENTRALIZED_CONFIG"
+    Issuer: "microservices-basics-api"
+    Audience: "microservices-client"

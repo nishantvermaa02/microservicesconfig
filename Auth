@@ -1,0 +1,4 @@
+ApiSettings:
+  Secret: "SAMPLE-SECRET-KEY-SAMPLE-SECRET-KEY-SAMPLE-SECRET-KEY-SAMPLE-SECRET-KEY"
+  Issuer: "microservices-basics-api"
+  Audience: "microservices-client"
